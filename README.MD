@@ -1,0 +1,1 @@
+## Demonstration of the template method pattern in C# for a blog article of mine.
